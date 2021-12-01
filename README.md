@@ -1,6 +1,6 @@
 ##############################################################
 # ECS                                                        #
-# Project for course of Electronic and Communication Systems #
+# Project for Electronic and Communication Systems course    #
 #                                                            #
 # Academic code for academic purposes only.                  #
 ##############################################################
